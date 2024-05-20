@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table {
+  margin-top: 1rem;
+
+  margin: auto;
+  width: 60%;
+}
+table tbody {
+  text-align: center;
+}
